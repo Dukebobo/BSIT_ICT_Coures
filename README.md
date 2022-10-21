@@ -6,4 +6,4 @@ In this claas. We parctice HTML
 
 Below image is my code and output
 
-![image](Image/Snipaste_2022-10-21_08-51-39.png"") 
+![](Image/Snipaste_2022-10-21_08-51-39.png) 
