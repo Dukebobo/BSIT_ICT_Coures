@@ -1,4 +1,4 @@
-# BSIT_ICT_Coures
+# BSIT_ITC_Coures
 ITC Project
 ### Project NAME:  Module6-8 Fundamentals of HTML 
 
@@ -13,4 +13,4 @@ Below image is my code and output
 ![](Image/Snipaste_2022-10-21_10-23-57.png) 
 
 #### Button Output
-![](Image/Snipaste_2022-11-25_08-20-59.png)
+![](Image/Snipaste_2022-11-25_08-33-36.png)
