@@ -1,30 +1,27 @@
-/*Main 3*/
-/*body{
-  background-color: black;
+/*plz read comment */
 
-}
-h1{
-  color:pink;
-}
-p{
-
-  color:#FFFFF4;
-}
-*/
-
-/*Main 4*/
 body{
   background-color: black;
 
 }
+/*mian 3*/
 h1{
-  color:pink;
+  color:rgb(0, 0, 255);
 }
 p{
 
-  color:#FFFFF4;
+  color:white;
+}
+/*Main4 B using class selector*/
+.odd{
+  color:teal;
+}
+.even{
+  color:green;
 }
 
+/*Main 4 A*/
+/*
 #p1{
   color:#0066ff
 }
@@ -48,3 +45,4 @@ p{
 #p6{
   color:#cc3399
 }
+*/
