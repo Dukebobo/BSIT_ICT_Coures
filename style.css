@@ -1,3 +1,18 @@
+/*Main 3*/
+/*body{
+  background-color: black;
+
+}
+h1{
+  color:pink;
+}
+p{
+
+  color:#FFFFF4;
+}
+*/
+
+/*Main 4*/
 body{
   background-color: black;
 
@@ -8,4 +23,28 @@ h1{
 p{
 
   color:#FFFFF4;
+}
+
+#p1{
+  color:#0066ff
+}
+
+#p2{
+  color:#cc00ff
+}
+
+#p3{
+  color:#33cc33
+}
+
+#p4{
+  color:#cc6600
+}
+
+#p5{
+  color:#990000
+}
+
+#p6{
+  color:#cc3399
 }
